@@ -1,5 +1,5 @@
 package main
-
+// At this point i do not understand go at all
 import (
 	"database/sql"
 	"embed"
